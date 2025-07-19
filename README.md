@@ -1,1 +1,1 @@
-my first game from pygame- pretty basic but fun to play 
+A simple car dodging game built with Python and Pygame.
